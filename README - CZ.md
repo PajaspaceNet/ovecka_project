@@ -15,7 +15,7 @@ Tento zábavný projekt simuluje počítání oveček pro ty, kteří nemohou sp
 - `splash.py`: Modul pro splash screen.
 -  Zvukové soubory.
 
----
+##**Copy something**## Upravujte si jak je libo  , proste p...sranda :-)) Just for fun.
 
 ## Jazykové Verze
 - [Anglická Verze (README.md)](README.md)
