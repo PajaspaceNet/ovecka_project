@@ -1,0 +1,10 @@
+# Ignore virtual area
+venv/
+env/
+
+# Cache Pythonu
+__pycache__/
+
+# Ignore Temp files
+*.log
+*.tmp
