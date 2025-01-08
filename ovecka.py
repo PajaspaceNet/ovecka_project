@@ -3,7 +3,7 @@ import random
 import pygame
 import os
 
-#krouzit
+#circling
 def circle_text(text, width=10, height=5, speed=0.2):
     for i in range(width + height):
         os.system('cls' if os.name == 'nt' else 'clear')
