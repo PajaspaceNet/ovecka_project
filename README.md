@@ -1,4 +1,4 @@
-# Ovečka Project /sheeps counting , if can not sleep/
+# Ovečka Project /sheeps counting , if you can not sleep/
 
 This fun project simulates counting sheep for those who can't fall asleep. It includes:
 - Animated splash screen (ASCII art).
