@@ -9,6 +9,7 @@ This fun project simulates counting sheep for those who can't fall asleep. It in
 1. Ensure you have Python 3.7+ installed.
 2. Install dependencies:
 3. Run the main script:
+4. Will ask you how much you can sleep,please choose one of possibilities and  press Enter , everything after is automatic :-)
 
 
 ## Project Structure
