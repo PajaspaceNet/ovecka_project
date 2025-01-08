@@ -19,4 +19,4 @@ This fun project simulates counting sheep for those who can't fall asleep. It in
 ---
 
 ## Languages
-- [Czech Version (README_CZ.md)](README_CZ.md)
+- [Czech Version (README_CZ.md)](README-CZ.md)
