@@ -79,7 +79,7 @@ def chrapani():
 def predchrap():
     # Inicializace mixeru
     pygame.mixer.init()
-    # Načtení hudebního souboru
+    # louding music file
     pygame.mixer.music.load("predchrap.mp3")  # You can choose what ever you want
     # Music play
     pygame.mixer.music.play()
