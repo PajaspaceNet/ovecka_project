@@ -24,6 +24,6 @@ This fun project simulates counting sheep for those who can't fall asleep. It in
 
 
 ## Languages
-- [Czech Version (README_CZ.md)](README - CZ.md)
+- [Czech Version](https://github.com/PajaspaceNet/ovecka_project/edit/main/README-CZ.md)
 
   ##**Copy something**## You can modify how you want to ... :-)) Just for fun.
