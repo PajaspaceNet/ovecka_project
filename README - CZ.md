@@ -1,5 +1,7 @@
 # Ovečka Projekt
 
+![ovecky](https://github.com/user-attachments/assets/1d2e8e02-8760-4723-9aab-18ffeaa4b76e)
+
 Tento zábavný projekt simuluje počítání oveček pro ty, kteří nemohou spát. Obsahuje:
 - Animovaný splash screen (ASCII art).
 - Zvukové efekty oveček 🐑.
