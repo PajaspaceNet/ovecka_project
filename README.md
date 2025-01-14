@@ -1,5 +1,9 @@
 # Ovečka Project /sheeps counting , if you can not sleep/
 
+
+
+![ovecky](https://github.com/user-attachments/assets/d9b70204-9067-4dda-980c-4937b74e4f29)
+
 This fun project simulates counting sheep for those who can't fall asleep. It includes:
 - Animated splash screen (ASCII art).
 - Sound effects of sheep 🐑.
